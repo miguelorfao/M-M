@@ -1,0 +1,21 @@
+body {
+  backdrop-filter: blur(100px) !important;
+}
+
+.hero {
+  background-image: url(images/pexels-umsiedlungen-7181196.jpg);
+  height: 90vh;
+  width: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.hero div {
+  height: 100%;
+}
+.products .shadow {
+  border-radius: 25px;
+  -webkit-box-shadow: 0px 0px 10px 5px #7e6a20 !important;
+  -moz-box-shadow: 0px 0px 10px 5px #7e6a20;
+  box-shadow: 0px 0px 10px 5px #7e6a20;
+}
